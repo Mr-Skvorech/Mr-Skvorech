@@ -1,1 +1,1 @@
-CTF, Cyber security, front-end, GameDev, Linux.
+Front-end, Linux, GameDev, DnD, Warhammer, Killteam
